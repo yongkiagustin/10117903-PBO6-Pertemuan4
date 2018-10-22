@@ -6,8 +6,12 @@
 package pbo6.pkg10117903.latihan42.tabungan;
 
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA       : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menghitung 
+ * tabungan.
  */
 public class Tabungan {
 

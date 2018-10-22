@@ -4,10 +4,13 @@
  * and open the template in the editor.
  */
 package pbo6.pkg10117903.latihan44.hukumohm;
-
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA         : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menghitung 
+ * kuat arus listrik.
  */
 public class PBO610117903Latihan44HukumOhm {
 
@@ -18,8 +21,8 @@ public class PBO610117903Latihan44HukumOhm {
         // TODO code application logic here
         Baterai baterai = new Baterai();
         System.out.println("=====Hukum Ohm=====");
-        System.out.println("Kuat arus yang mengalir pada suatu kawat penghantar"
-                + "akan berbanding lurus dengan beda potensial pada ujung ujung"
+        System.out.println("Kuat arus yang mengalir pada suatu kawat penghantar\n"
+                + "akan berbanding lurus dengan beda potensial pada ujung ujung\n"
                 + "kawat penghantar tersebut asalkan suhu kawat dijaga konstan.");
 
         baterai.getKuatArus();

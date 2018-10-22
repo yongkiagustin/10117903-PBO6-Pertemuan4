@@ -6,10 +6,13 @@
 package pbo6.pkg10117903.latihan47.nilaimahasiswa;
 
 import java.util.Scanner;
-
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA         : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menhitung 
+ * nilai seorang mahasiswa.
  */
 public class PBO610117903Latihan47NilaiMahasiswa {
 

@@ -4,10 +4,13 @@
  * and open the template in the editor.
  */
 package pbo6.pkg19117903.latihan43gaji.pegawai;
-
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA         : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menghitung 
+ * gaji pegawai.
  */
 public class GajiPegawai {
     private String nama;

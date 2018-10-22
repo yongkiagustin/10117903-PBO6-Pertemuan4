@@ -6,10 +6,13 @@
 package pbo6.pkg10117903.latihan45.cetaknama;
 
 import java.util.Scanner;
-
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA         : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk mengulang 
+ * mencetak nama.
  */
 public class PBO610117903Latihan45CetakNama {
 

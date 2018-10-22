@@ -4,10 +4,13 @@
  * and open the template in the editor.
  */
 package pkg10117903.latihan48.kalkulator;
-
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA         : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menhitung 
+ * aritmatika sederhana.
  */
 public class Latihan48Kalkulator {
 

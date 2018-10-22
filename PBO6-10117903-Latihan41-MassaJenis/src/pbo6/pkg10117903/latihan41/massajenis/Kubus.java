@@ -3,8 +3,12 @@
 package pbo6.pkg10117903.latihan41.massajenis;
 
 /**
- *
- * @author Teknisi
+ * @author Yongki
+ * NAMA       : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menghitung 
+ * massa jenis kubus.
  */
 public class Kubus {
 private int sisi;

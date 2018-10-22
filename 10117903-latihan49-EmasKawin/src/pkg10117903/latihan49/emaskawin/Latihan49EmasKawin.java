@@ -4,10 +4,13 @@
  * and open the template in the editor.
  */
 package pkg10117903.latihan49.emaskawin;
-
 /**
- *
- * @author yongki
+ * @author Yongki
+ * NAMA         : Yongki Agustin
+ * KELAS        : PBO6
+ * NIM          : 10117903
+ * Deskripsi Program : Program ini berisi program untuk menhitung 
+ * total harga emas.
  */
 public class Latihan49EmasKawin {
 
